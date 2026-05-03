@@ -1,0 +1,11 @@
+pizza_type_id,name,category
+pt_1,Margherita,Veg
+pt_2,Farmhouse,Veg
+pt_3,Peppy Paneer,Non-Veg
+pt_4,Veg Extravaganza,Veg
+pt_5,Deluxe Veggie,Veg
+pt_6,Chicken Dominator,Veg
+pt_7,Pepper BBQ Chicken,Veg
+pt_8,Chicken Sausage,Veg
+pt_9,Indi Chicken Tikka,Non-Veg
+pt_10,Paneer Makhani,Veg
