@@ -1,3 +1,6 @@
+This is a SQL Analytics Project of Domino's Pizza with
+total of 500 unique orders,total revenue of 899732,Average Order Value of 1799.4640 and 
+peak number of orders are on Wednesday
 Domino's Pizza SQL Analytics Project
 
 1. Total orders
